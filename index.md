@@ -1,4 +1,4 @@
-# Comparing the Effectiveness of Reservoir Computing, Lagrangian Neural Networks, and Hamiltonian Neural Networks on the Forecasting of a Chaotic Double Pendulum!
+# Comparing Reservoir Computing, Lagrangian Neural Networks, and Hamiltonian Neural Networks on a Physics-Specific Task
 
 ## Project Description
 This project seeks to compare the more general model of reservoir computing against the physics-specific architecture of Lagrangian and Hamiltonian Neural Networks. We will give each model the tasks of forecasting the motion over time of a double pendulum. We will then compare the performance of each model.
