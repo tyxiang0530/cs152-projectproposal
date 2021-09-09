@@ -5,7 +5,7 @@ This project seeks to compare the more general model of reservoir computing agai
 
 The double pendulum is a classic example of a chaotic system in physics. Slight alterations in the initial conditions of the system can lead to drastic changes in the path of the pendulum. This makes predicting the motion of the system by hand quite difficult without significant mathematical work.
 
-![](images/Demonstrating_Chaos_with_a_Double_Pendulum.gif)
+![](https://github.com/tyxiang0530/tai152proposal.github.io/blob/main/images/Demonstrating_Chaos_with_a_Double_Pendulum.gif)
 
 Reservoir computing has proven to be successful in the forecasting of chaotic systems and it may perform well on the task of forecasting the double pendulum's path. When fed a set of initial conditions and subsequent positions, it could be possible to train a model that is capable of accurately predicting the pendulum's motion. Lagrangian Neural Networks are useful for specific tasks involving the principle of least action, the Lagrangian, and can be trained to generate a Lagrangian (a function describing the differences between potential and kinetic energy) from a collection of data points. Hamiltonian Neural Networks perform the same function, but instead calculate the Hamiltonian (a function describing the sum of kinetic and potential energies) from the set of points. The double pendulum's Lagrangian and Hamiltonian can both be used to generate its path over time.
 
