@@ -1,5 +1,6 @@
 # Comparing the Effectiveness of Reservoir Computing, Lagrangian Neural Networks, and Hamiltonian Neural Networks on the Forecasting of a Chaotic Double Pendulum!
 
+## Project Description
 This project seeks to compare the more general model of reservoir computing against the physics-specific architecture of Lagrangian and Hamiltonian Neural Networks. We will give each model the tasks of forecasting the motion over time of a double pendulum. We will then compare the performance of each model.
 
 The double pendulum is a classic example of a chaotic system in physics. Slight alterations in the initial conditions of the system can lead to drastic changes in the path of the pendulum. This makes predicting the motion of the system by hand quite difficult without significant mathematical work.
@@ -12,7 +13,7 @@ This project serves as a means to compare a more general approach (Reservoir Com
 
 Datasets for the initial conditions of a double pendulum and its subsequent motion are available and also can be created. The Pomona Physics department can provide a double pendulum video setup and also has a program that is capable of mapping the paths of each individual pendulum over time, and thus additional data can be easily generated.
 
-# Goals: 
+## Goals: 
 Learn more about Reservoir Computing, Hamiltonian Neural Networks and Lagrangian Neural Networks
 
 Compare the effectiveness of general and physics specific models on forecasting the motion of a double pendulum (a chaotic system)
